@@ -1,4 +1,4 @@
-### Hi!
+# Hi, I'm Callum!
 
 - ⚡ 3rd year electrical engineering (biomedical option) student at UBC
 - 🚀 Avionics electrical lead on the UBC Rocket design team

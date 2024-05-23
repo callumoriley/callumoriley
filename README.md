@@ -4,5 +4,5 @@
 - 🚀 Avionics electrical lead on the UBC Rocket design team
 - 🔭 I'm currently working on:
   - A combinational logic IEEE754 floating point calculator for a hardware FIR filter
-  - Various ML projects to explore the field!
+  - Various ML projects
 - 🕸 My website is [callumoriley.ca](https://callumoriley.ca)

@@ -6,5 +6,5 @@
 - 🔭 I'm currently working on:
   - A combinational logic IEEE754 floating point calculator for a hardware FIR filter
   - My personal website
-  - A Linux single-board computer
+  - A simple ethernet stack from scratch for the STM32H723 to learn about ethernet and STM32 HAL programming
 - 🕸 My website is [callumoriley.ca](https://callumoriley.ca)
